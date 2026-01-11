@@ -21,3 +21,11 @@ This project demonstrates a modular approach to managing complex B2B sales cycle
 
 ---
 *Developed by a Sales Professional with 4+ years of B2B experience to bridge the gap between sales logic and technical automation.*
+
+## ?? Base Integration
+This project is connected to a Smart Contract on Base Mainnet to log B2B sales immutably.
+
+## ?? Base Integration
+This project is connected to a Smart Contract on Base Mainnet to log B2B sales immutably.
+
+**Deployed Contract Address (Base):** 0xd9145CCE52D386f254917e481eB44e9943F39138
