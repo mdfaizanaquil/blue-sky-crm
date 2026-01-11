@@ -29,3 +29,6 @@ This project is connected to a Smart Contract on Base Mainnet to log B2B sales i
 This project is connected to a Smart Contract on Base Mainnet to log B2B sales immutably.
 
 **Deployed Contract Address (Base):** 0xd9145CCE52D386f254917e481eB44e9943F39138
+
+? **OFFICIALLY VERIFIED ON BASESCAN**
+- **Verified Contract:** [View Blue Sky CRM on Basescan](https://basescan.org/address/0xa45898184D1DD73DF8ba300AA4681A24e6bdaa94#code)
